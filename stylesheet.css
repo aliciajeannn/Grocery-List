@@ -1,0 +1,35 @@
+body{
+    font-family: fantasy;
+    margin: 10px;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    color:#56494C;
+}
+h2{
+    border: solid;
+    border-radius: 20px;
+    background-color:#C2D3CD;
+
+
+}
+section{
+    padding: 10px;
+    border: solid;
+    margin: 15px;
+}
+div{
+    border-radius: 20px;
+    background-color: #9FA4A9 ;
+    width: 250px;
+    display: inline-flex;
+    height: 150px;
+    margin: 5px;
+}
+h4{
+    padding: 10px;
+}
+img {
+    margin;10px;
+}
